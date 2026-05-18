@@ -108,7 +108,7 @@ https://github.com/jeffersonpojunior/ProjetoFinal-IP
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=TutubasDev&theme=tokyonight&hide_border=true"/>
+
 ---
 
 # 📫 Contato
