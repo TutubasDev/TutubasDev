@@ -112,9 +112,9 @@ https://github.com/jeffersonpojunior/ProjetoFinal-IP
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arturbezerra&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TutubasDev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbezerra&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutubasDev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
