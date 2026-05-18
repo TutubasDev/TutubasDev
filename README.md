@@ -1,81 +1,78 @@
-# 🌙 Anime Aesthetic GitHub README
-
-```md
 <div align="center">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="100%" />
 
 # ✨ Artur Bezerra
 
-### 💻 Estudante de Engenharia da Computação | Full-Stack em evolução
+🎓 Estudante de Engenharia da Computação na UFPE  
+💻 Desenvolvedor focado em desenvolvimento web, UI/UX e soluções digitais  
+🚀 Buscando evoluir constantemente através de projetos, colaboração e tecnologia  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+UI%2FUX;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+UI%2FUX;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
 ---
 
-# 🪐 Sobre mim
+# 🚀 Sobre mim
 
-🎓 Estudante de Engenharia da Computação pela UFPE  
-🚀 Desenvolvendo aplicações web e projetos colaborativos  
-🎨 Interesse em UI/UX, interfaces modernas e experiência do usuário  
-📚 Atualmente estudando React, Node.js e Java  
-⚡ Gosto de transformar ideias em soluções funcionais e bem estruturadas
+Sou estudante de Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE), com experiência em desenvolvimento de aplicações web, projetos colaborativos e construção de soluções voltadas à produtividade e experiência do usuário.
+
+Tenho interesse em desenvolvimento full-stack, interfaces modernas, organização de sistemas e criação de produtos que realmente gerem impacto. Gosto de trabalhar em equipe, aprender novas tecnologias e transformar ideias em soluções funcionais.
+
+Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando JavaScript, Python, Java e tecnologias web modernas.
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,c,html,css,react,nodejs,express,java,git,github,vscode,figma" />
+## 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,python,java,c,html,css" />
+
+<br><br>
+
+## ⚙️ Frameworks e Tecnologias
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+
+<br><br>
+
+## 🔧 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
 ---
 
-# 📖 Aprendendo atualmente
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs" />
-
-</div>
-
-- ☕ Java
-- 🌱 Spring Boot
-- ⚛️ React
-- 🔧 Node.js
-- 🧠 Estruturas de Dados
-- 🏗️ Arquitetura de Software
-
----
-
-# 🚀 Projetos em Destaque
+# 📌 Projetos em Destaque
 
 ## 🧠 IDEIA
 
 Plataforma colaborativa voltada à ideação editorial utilizando Inteligência Artificial.
 
-🔹 Desenvolvimento colaborativo em equipe  
-🔹 Organização de funcionalidades e fluxo do sistema  
-🔹 Utilização de Git/GitHub para versionamento  
-🔹 Participação em ambiente ágil
+🔹 Desenvolvimento de funcionalidades relacionadas à geração de conteúdo e organização de informações  
+🔹 Trabalho colaborativo utilizando Git/GitHub  
+🔹 Participação em ambiente ágil e divisão de tarefas em equipe  
 
-🔗 https://github.com/victorb-s/IDEIA
+🔗 Projeto:  
+https://github.com/victorb-s/IDEIA
 
 ---
 
 ## 📚 StudyBoost
 
-Aplicação focada em produtividade estudantil e gerenciamento de tarefas.
+Aplicação focada em produtividade estudantil e gerenciamento de tarefas acadêmicas.
 
-🔹 Organização e acompanhamento acadêmico  
-🔹 Interface responsiva e foco em experiência do usuário  
-🔹 Desenvolvimento colaborativo e integração front-end/back-end
+🔹 Desenvolvimento de funcionalidades voltadas à organização e acompanhamento de desempenho  
+🔹 Aplicação de conceitos de UI/UX e interfaces responsivas  
+🔹 Integração entre componentes front-end e back-end  
 
-🔗 https://github.com/brittola/studyboost
+🔗 Projeto:  
+https://github.com/brittola/studyboost
 
 ---
 
@@ -84,10 +81,30 @@ Aplicação focada em produtividade estudantil e gerenciamento de tarefas.
 Projeto acadêmico desenvolvido com foco em Programação Orientada a Objetos.
 
 🔹 Modularização e organização de código  
-🔹 Aplicação de conceitos de POO  
-🔹 Desenvolvimento colaborativo
+🔹 Aplicação de conceitos como encapsulamento e reutilização  
+🔹 Desenvolvimento colaborativo e resolução de problemas utilizando lógica computacional  
 
-🔗 https://github.com/jeffersonpojunior/ProjetoFinal-IP
+🔗 Projeto:  
+https://github.com/jeffersonpojunior/ProjetoFinal-IP
+
+---
+
+# 📈 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,spring" />
+
+</div>
+
+<br>
+
+- ☕ Java  
+- 🌱 Spring Boot  
+- ⚛️ React  
+- 🔧 Node.js  
+- 🧠 Estruturas de Dados  
+- 🏗️ Arquitetura de Software  
 
 ---
 
@@ -95,24 +112,24 @@ Projeto acadêmico desenvolvido com foco em Programação Orientada a Objetos.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌌 Conecte-se comigo
+# 📫 Contato
 
 <div align="center">
-
-<a href="https://linkedin.com/in/artur-bezerra-1945022ba">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="mailto:arturbezerra167@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/artur-bezerra-1945022ba">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -121,31 +138,6 @@ Projeto acadêmico desenvolvido com foco em Programação Orientada a Objetos.
 
 <div align="center">
 
-✨ "Sempre aprendendo, sempre evoluindo." ✨
+✨ “Sempre aprendendo, sempre evoluindo.” ✨
 
 </div>
-```
-
-## 🔧 O que você precisa alterar
-
-Troque:
-
-```md
-SEUUSER
-```
-
-pelo seu usuário do GitHub.
-
-Exemplo:
-
-```md
-username=arturbezerra
-```
-
-## 📌 Como colocar no GitHub
-
-1. Crie um repositório com o mesmo nome do seu GitHub
-2. Abra o README.md
-3. Cole o conteúdo acima
-4. Commit changes
-5. O perfil será atualizado automaticamente
