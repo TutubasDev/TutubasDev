@@ -16,7 +16,7 @@ Sou estudante de Engenharia da Computação pela Universidade Federal de Pernamb
 
 Tenho interesse em desenvolvimento full-stack, interfaces modernas, organização de sistemas e criação de produtos que realmente gerem impacto. Gosto de trabalhar em equipe, aprender novas tecnologias e transformar ideias em soluções funcionais.
 
-Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando JavaScript, Python e tecnologias web modernas.
+Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando Java, Python e tecnologias web modernas.
 
 ---
 
