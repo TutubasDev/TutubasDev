@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+UI%2FUX;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia+e+UI%2FUX;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
@@ -112,7 +112,7 @@ https://github.com/jeffersonpojunior/ProjetoFinal-IP
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbezerra&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -138,6 +138,6 @@ https://github.com/jeffersonpojunior/ProjetoFinal-IP
 
 <div align="center">
 
-✨ “Sempre aprendendo, sempre evoluindo.” ✨
+✨ “No pain, no gain!” ✨
 
 </div>
