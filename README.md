@@ -1,102 +1,151 @@
-# Olá, eu sou Artur Bezerra 👋
+# 🌙 Anime Aesthetic GitHub README
 
+```md
 <div align="center">
 
-🎓 Estudante de Engenharia da Computação na UFPE  
-💻 Desenvolvedor focado em desenvolvimento web, UI/UX e soluções digitais  
-🚀 Buscando evoluir constantemente através de projetos, colaboração e tecnologia  
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding-anime.gif" width="100%" />
+
+# ✨ Artur Bezerra
+
+### 💻 Estudante de Engenharia da Computação | Full-Stack em evolução
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+UI%2FUX;Construindo+projetos+e+aprendendo+todos+os+dias" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🪐 Sobre mim
 
-Sou estudante de Engenharia da Computação pela Universidade Federal de Pernambuco (UFPE), com experiência em desenvolvimento de aplicações web, projetos colaborativos e construção de soluções voltadas à produtividade e experiência do usuário.
-
-Tenho interesse em desenvolvimento full-stack, interfaces modernas, organização de sistemas e criação de produtos que realmente gerem impacto. Gosto de trabalhar em equipe, aprender novas tecnologias e transformar ideias em soluções funcionais.
-
-Atualmente venho desenvolvendo projetos acadêmicos e pessoais utilizando Java, Python e tecnologias web modernas.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-
-### ⚙️ Frameworks e Tecnologias
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+🎓 Estudante de Engenharia da Computação pela UFPE  
+🚀 Desenvolvendo aplicações web e projetos colaborativos  
+🎨 Interesse em UI/UX, interfaces modernas e experiência do usuário  
+📚 Atualmente estudando React, Node.js e Java  
+⚡ Gosto de transformar ideias em soluções funcionais e bem estruturadas
 
 ---
 
-# 📌 Projetos em Destaque
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,c,html,css,react,nodejs,express,java,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 📖 Aprendendo atualmente
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs" />
+
+</div>
+
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🔧 Node.js
+- 🧠 Estruturas de Dados
+- 🏗️ Arquitetura de Software
+
+---
+
+# 🚀 Projetos em Destaque
 
 ## 🧠 IDEIA
+
 Plataforma colaborativa voltada à ideação editorial utilizando Inteligência Artificial.
 
-🔹 Desenvolvimento de funcionalidades relacionadas à geração de conteúdo e organização de informações  
-🔹 Trabalho colaborativo utilizando Git/GitHub  
-🔹 Participação em ambiente ágil e divisão de tarefas em equipe  
+🔹 Desenvolvimento colaborativo em equipe  
+🔹 Organização de funcionalidades e fluxo do sistema  
+🔹 Utilização de Git/GitHub para versionamento  
+🔹 Participação em ambiente ágil
 
-🔗 Projeto:  
-https://github.com/victorb-s/IDEIA
+🔗 https://github.com/victorb-s/IDEIA
 
 ---
 
 ## 📚 StudyBoost
-Aplicação focada em produtividade estudantil e gerenciamento de tarefas acadêmicas.
 
-🔹 Desenvolvimento de funcionalidades voltadas à organização e acompanhamento de desempenho  
-🔹 Aplicação de conceitos de UI/UX e interfaces responsivas  
-🔹 Integração entre componentes front-end e back-end  
+Aplicação focada em produtividade estudantil e gerenciamento de tarefas.
 
-🔗 Projeto:  
-https://github.com/brittola/studyboost
+🔹 Organização e acompanhamento acadêmico  
+🔹 Interface responsiva e foco em experiência do usuário  
+🔹 Desenvolvimento colaborativo e integração front-end/back-end
+
+🔗 https://github.com/brittola/studyboost
 
 ---
 
 ## 🎮 ReciRunner
+
 Projeto acadêmico desenvolvido com foco em Programação Orientada a Objetos.
 
 🔹 Modularização e organização de código  
-🔹 Aplicação de conceitos como encapsulamento e reutilização  
-🔹 Desenvolvimento colaborativo e resolução de problemas utilizando lógica computacional  
+🔹 Aplicação de conceitos de POO  
+🔹 Desenvolvimento colaborativo
 
-🔗 Projeto:  
-https://github.com/jeffersonpojunior/ProjetoFinal-IP
-
----
-
-## 📈 Atualmente estudando
-
-- Desenvolvimento Full-Stack
-- Estruturas de Dados
-- Programação Orientada a Objetos
-- React
-- Node.js
-- UI/UX
-- Arquitetura de Software
+🔗 https://github.com/jeffersonpojunior/ProjetoFinal-IP
 
 ---
 
-## 📫 Contato
+# 📊 GitHub Stats
 
-📧 arturbezerra167@gmail.com
+<div align="center">
 
-💼 LinkedIn:  
-https://linkedin.com/in/artur-bezerra-1945022ba
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+# 🌌 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://linkedin.com/in/artur-bezerra-1945022ba">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:arturbezerra167@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ "Sempre aprendendo, sempre evoluindo." ✨
+
+</div>
+```
+
+## 🔧 O que você precisa alterar
+
+Troque:
+
+```md
+SEUUSER
+```
+
+pelo seu usuário do GitHub.
+
+Exemplo:
+
+```md
+username=arturbezerra
+```
+
+## 📌 Como colocar no GitHub
+
+1. Crie um repositório com o mesmo nome do seu GitHub
+2. Abra o README.md
+3. Cole o conteúdo acima
+4. Commit changes
+5. O perfil será atualizado automaticamente
